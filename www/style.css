@@ -1,23 +1,23 @@
-#layang{background-color:#1D96EF }
+#layang{background-color:#003628 }
 #navbawah{background-color:#666}
 #navbawah #border{/*border-right: #0D47A1 solid;*/border:none}
 /*--tambahan--*/
 .bagian{float:left;width:100%;padding:10px;}
 .bagian .bag-left a{color:#666}
 .bag-left{float:left;width:75%}
-.bagian .bag-right a{color:#1D96EF }
+.bagian .bag-right a{color:#003628 }
 .bag-right{float:right;width:25%}
 .menu{overflow-x:auto;overflow-y:hidden;/*white-space:nowrap;*/}
 #icon_produk{filter: saturate();float:left;margin-right: 100px;width:100px;}
 /*--tambahan--*/
 i{font-size: 18px;}
 #navbawah i{font-size: 25px;}
-sup{color:#1D96EF }
+sup{color:#003628 }
 .kateg{background-color:#ddd;}
 li.kate {display:none;}
 li.kateg {display:block;}
-#marquee{background-color:#1D96EF }
-#judul_isi,.judul_isi{background-color:#1D96EF;color:#fff}
+#marquee{background-color:#003628 }
+#judul_isi,.judul_isi{background-color:#003628;color:#fff}
 #content{background-image:url('');background-repeat:repeat;background-size:100px;background-color:#fff;}
 .page img{max-width: 100%;height: auto}
 .page iframe {max-width: 100%;}
@@ -133,7 +133,7 @@ button,input[type="submit"],input[type="button"],input[type="reset"] {
 .informasi table tr td{word-wrap: break-word;display:inline-block}
 a {text-decoration: none;font-weight: bold}
 
-.kembali{z-index: 999999;height: 35px;width: 100%;background:#1D96EF;opacity: 0.7;filter: alpha(opacity=70);}
+.kembali{z-index: 999999;height: 35px;width: 100%;background:#003628;opacity: 0.7;filter: alpha(opacity=70);}
 
 
 ::-webkit-scrollbar {
